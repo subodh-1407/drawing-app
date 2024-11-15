@@ -11,7 +11,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #4A98F7;
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
 }
 .container{
   display: flex;
@@ -133,7 +133,7 @@ section{
   background: #6C757D;
 }
 .buttons .save-img{
-  background: #4A98F7;
+  background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);
   border: 1px solid #4A98F7;
 }
 .drawing-board{
